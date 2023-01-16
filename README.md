@@ -4,7 +4,7 @@
 - 👉 𝗘-𝗺𝗮𝗶𝗹 𝗽𝗮𝗿𝗮 𝗰𝗼𝗻𝘁𝗮𝘁𝗼: cleiton.almeida13@etec.sp.gov.br 𝗼𝘂 cleiton.junior16@outlook.com
 - 🤔 𝗖𝘂𝗿𝘀𝗮𝗻𝗱𝗼 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗶𝘀𝘁𝗲𝗺𝗮𝘀
 
-## **GitHub Estatísticas**
+## **Estatísticas**
 
 <div align="">
   <a href="https://github.com/cleiton-jr">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleiton-jr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## 🚀 **Minhas Skills**
+  ## 🚀 **Habilidades**
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Wind-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
