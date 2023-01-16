@@ -30,6 +30,6 @@
   <a href="https://www.instagram.com/___junior.__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleiton-almeida-155b8b237/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white target="_blank"></a>
     
-    ![Snake animation](https://github.com/cleiton-jr/CJR/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/cleiton-jr/cleiton-jr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
