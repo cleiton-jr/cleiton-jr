@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleiton-jr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-  ## 🚀 **Minhas Skills**
+  🚀 **Minhas Skills**
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Wind-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,8 @@
   <img align="center" alt="Wind-VSC1" height="30" width="40" src="https://icongr.am/devicon/ionic-original.svg?size=148&color=006eff">
   <img align="center" alt="Wind-VSC1" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=red">
  </div>
+  
+  ##
            
  ## **Redes Sociais**
        
