@@ -11,8 +11,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleiton-jr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-  ##
-  
   ## 🚀 **Minhas Skills**
   
 <div style="display: inline_block"><br>
@@ -25,8 +23,6 @@
   <img align="center" alt="Wind-VSC1" height="30" width="40" src="https://icongr.am/devicon/ionic-original.svg?size=148&color=006eff">
   <img align="center" alt="Wind-VSC1" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=red">
  </div>
-  
-  ##
            
  ## **Redes Sociais**
        
@@ -34,8 +30,6 @@
   <a href="https://www.instagram.com/___junior.__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleiton-almeida-155b8b237/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white target="_blank"></a>
     </div>
-    
-  ##  
     
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cleiton-jr&bg_color=000000&color=009980&line=25b699&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
