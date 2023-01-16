@@ -7,8 +7,8 @@
 
 <div align="">
   <a href="https://github.com/cleiton-jr">
-     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cleiton-Almeida&layout&hide=html&layout=compact=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cleiton-Almeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleiton-jr&layout&hide=html&layout=compact=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleiton-jr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
   ## 🚀 **Minhas Skills**
