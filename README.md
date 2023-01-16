@@ -31,10 +31,5 @@
   <a href="https://www.linkedin.com/in/cleiton-almeida-155b8b237/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white target="_blank"></a>
     </div>
     
-    <div>
-      align="center">
-      <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=cleiton-jr101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-    </div>
-    
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cleiton-jr&bg_color=000000&color=009980&line=25b699&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
