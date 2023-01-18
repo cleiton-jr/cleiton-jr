@@ -26,7 +26,7 @@ Meu nome é Cleiton, me interesso e gosto muito da área de tecnologia, especial
  ## **Redes Sociais**
        
   <div> 
-  <a href="https://www.instagram.com/___junior.__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/___junior.__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleiton-almeida-155b8b237/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white target="_blank"></a>
    <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
      <a href="https://outlook.office.com/mail/?actSwt=true" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
