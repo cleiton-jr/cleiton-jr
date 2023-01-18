@@ -2,10 +2,6 @@
 
 Meu nome é Cleiton, me interesso e gosto muito da área de tecnologia, especialmente por programação, atualmente estou cursando Desenvolvimento de sistemas na Etec Comendador João Rays de Barra Bonita/SP, estou estudando para um dia ter a oportunidade de trabalhar na área de tecnologia.
 
-- 📍  𝗕𝗮𝗿𝗿𝗮-𝗕𝗼𝗻𝗶𝘁𝗮/𝗦𝗣
-- 👉 𝗘-𝗺𝗮𝗶𝗹 𝗽𝗮𝗿𝗮 𝗰𝗼𝗻𝘁𝗮𝘁𝗼: cleiton.almeida13@etec.sp.gov.br 𝗼𝘂 cleiton.junior16@outlook.com
-- 🤔 𝗖𝘂𝗿𝘀𝗮𝗻𝗱𝗼 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗦𝗶𝘀𝘁𝗲𝗺𝗮𝘀
-
 ##
 
 ## **Estatísticas**
