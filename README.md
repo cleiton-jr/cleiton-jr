@@ -1,6 +1,6 @@
 ## **Olá, bem-vindo ao meu GitHub!! 👋**
 
-Meu nome é Cleiton, me interesso e gosto muito da área de tecnologia, especialmente por programação, atualmente estou cursando Desenvolvimento de sistemas na Etec Comendador João Rays de Barra Bonita/SP, estou estudando para um dia ter a oportunidade de trabalhar na área de tecnologia.
+Me chamo Cleiton e sou um entusiasta da programação. Atualmente, estou mergulhado no mundo do desenvolvimento de software, explorando linguagens como JavaScript, C#, Phython e Java.
 
 ## **Estatísticas**
 
