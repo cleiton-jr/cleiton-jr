@@ -21,6 +21,7 @@ Me chamo Cleiton e sou um entusiasta da programação. Atualmente, estou mergulh
   <img align="center" alt="Wind-VSC1" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=131&color=0008ff">
   <img align="center" alt="Wind-VSC1" height="40" width="50" src="https://icongr.am/devicon/ionic-original.svg?size=148&color=006eff">
   <img align="center" alt="Wind-VSC1" height="40" width="50" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=red">
+  <img align="center" alt="Wind-VSC1" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />      
  </div>
            
  ## **Redes Sociais**
