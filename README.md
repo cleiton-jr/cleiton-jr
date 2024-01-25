@@ -31,5 +31,5 @@ Me chamo Cleiton e sou um entusiasta da programação. Atualmente, estou mergulh
    <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
      <a href="https://outlook.office.com/mail/?actSwt=true" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cleiton-jr&bg_color=000000&color=009980&line=25b699&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cleiton-jr)](https://github.com/ashutosh00710/github-readme-activity-graph))
     
